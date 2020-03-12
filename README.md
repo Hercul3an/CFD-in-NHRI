@@ -8,3 +8,5 @@ For fun only, should never use in production.
 # License
     jiradt4j - An indie thought for Java.
     Copyright (C) 2015  Artiya Thinkumpang
+    
+    This program is free software: you can redistribute it and/or modify
