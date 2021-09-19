@@ -13,4 +13,4 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
       <library name="JUnit4">
-        <CLASS
+        <CLASSES>
