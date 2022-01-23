@@ -15,4 +15,4 @@
       <library name="JUnit4">
         <CLASSES>
           <root url="jar://$APPLICATION_HOME_DIR$/lib/junit-4.11.jar!/" />
-          <root url="jar://$APPLICATION_HOME_DIR$/lib/ham
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/hamcr
