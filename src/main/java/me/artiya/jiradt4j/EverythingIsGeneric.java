@@ -15,3 +15,7 @@ package me.artiya.jiradt4j;
  * ให้ถือว่า 'ธรรมดา'
  * Created by robot on 24/07/15.
  */
+public interface EverythingIsGeneric<T extends Throwable> {
+    void bad(T what);
+
+    void left(T me) throws T;
