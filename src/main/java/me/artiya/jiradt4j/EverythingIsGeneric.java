@@ -19,3 +19,5 @@ public interface EverythingIsGeneric<T extends Throwable> {
     void bad(T what);
 
     void left(T me) throws T;
+
+    void pitching(T me);
