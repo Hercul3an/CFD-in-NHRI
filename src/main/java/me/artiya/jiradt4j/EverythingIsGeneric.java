@@ -23,3 +23,5 @@ public interface EverythingIsGeneric<T extends Throwable> {
     void pitching(T me);
 
     void damn(T me);
+
+    void overrun(T me);
