@@ -25,3 +25,6 @@ public interface EverythingIsGeneric<T extends Throwable> {
     void damn(T me);
 
     void overrun(T me);
+
+    @More
+    void gossip(T me);
