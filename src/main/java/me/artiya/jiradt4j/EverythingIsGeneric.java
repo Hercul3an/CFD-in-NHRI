@@ -28,3 +28,6 @@ public interface EverythingIsGeneric<T extends Throwable> {
 
     @More
     void gossip(T me);
+}
+
+class Me extends Throwable {
