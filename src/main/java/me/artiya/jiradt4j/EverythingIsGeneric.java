@@ -31,3 +31,4 @@ public interface EverythingIsGeneric<T extends Throwable> {
 }
 
 class Me extends Throwable {
+}
