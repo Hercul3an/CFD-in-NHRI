@@ -9,3 +9,5 @@ import java.io.Serializable;
 public class ExistingOfSerialVersionUID implements Serializable {
     /*
         ไม่จำเป็นต้องอยู่
+        เพิ่อช่วย
+        'แก้ปัญหา'
