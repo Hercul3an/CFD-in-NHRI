@@ -13,3 +13,5 @@ public class ExistingOfSerialVersionUID implements Serializable {
         'แก้ปัญหา'
 
         'อยู่' ให้เขารู้สึกว่า 'มีใคร'
+        ก็พอ
+
