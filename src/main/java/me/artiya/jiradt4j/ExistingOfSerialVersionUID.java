@@ -15,3 +15,5 @@ public class ExistingOfSerialVersionUID implements Serializable {
         'อยู่' ให้เขารู้สึกว่า 'มีใคร'
         ก็พอ
 
+
+        #MarkerInterfacePattern
