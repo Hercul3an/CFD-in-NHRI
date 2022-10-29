@@ -20,3 +20,4 @@ public class ExistingOfSerialVersionUID implements Serializable {
         @artiya4u
         */
     private static final long serialVersionUID = 10153100547445519L;
+}
