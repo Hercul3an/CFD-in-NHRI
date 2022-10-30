@@ -10,3 +10,6 @@ package me.artiya.jiradt4j;
  * ก็เพื่อให้ 'ใจตัวเอง' มีความสุข
  * ‪#‎คนแบบนี้มันน่ากราบ‬
  * Created by robot on 25/07/15.
+ */
+
+import java.util.Observable;
