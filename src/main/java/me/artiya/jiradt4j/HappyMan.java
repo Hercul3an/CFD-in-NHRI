@@ -13,3 +13,5 @@ package me.artiya.jiradt4j;
  */
 
 import java.util.Observable;
+import java.util.Observer;
+
