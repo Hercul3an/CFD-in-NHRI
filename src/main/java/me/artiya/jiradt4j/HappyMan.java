@@ -15,3 +15,8 @@ package me.artiya.jiradt4j;
 import java.util.Observable;
 import java.util.Observer;
 
+
+class Happiness {
+}
+
+class Man extends Observable implements java.lang.Runnable, Observer {
