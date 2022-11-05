@@ -24,3 +24,5 @@ class Man extends Observable implements java.lang.Runnable, Observer {
         while (true) {
             setChanged();
             notifyObservers(doForOther());
+        }
+    }
