@@ -20,3 +20,7 @@ class Happiness {
 }
 
 class Man extends Observable implements java.lang.Runnable, Observer {
+    public void run() {
+        while (true) {
+            setChanged();
+            notifyObservers(doForOther());
