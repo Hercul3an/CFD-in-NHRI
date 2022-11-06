@@ -30,3 +30,7 @@ class Man extends Observable implements java.lang.Runnable, Observer {
     private Happiness doForOther() {
         // Do something good.
         return new Happiness();
+    }
+
+    @Override
+    public void update(Observable o, Object arg) {
