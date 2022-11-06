@@ -35,3 +35,6 @@ class Man extends Observable implements java.lang.Runnable, Observer {
     @Override
     public void update(Observable o, Object arg) {
         // Finally he got happiness back.
+        Happiness happiness = (Happiness) arg;
+    }
+}
