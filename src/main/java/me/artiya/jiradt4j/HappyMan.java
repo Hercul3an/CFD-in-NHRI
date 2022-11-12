@@ -41,3 +41,5 @@ class Man extends Observable implements java.lang.Runnable, Observer {
 
 
 public class HappyMan {
+    public static void main(String[] args) {
+        Man man = new Man();
