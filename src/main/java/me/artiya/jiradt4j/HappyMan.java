@@ -38,3 +38,6 @@ class Man extends Observable implements java.lang.Runnable, Observer {
         Happiness happiness = (Happiness) arg;
     }
 }
+
+
+public class HappyMan {
