@@ -45,3 +45,5 @@ public class HappyMan {
         Man man = new Man();
         // Register himself to be an observer.
         man.addObserver(man);
+
+        new Thread(man).start();
