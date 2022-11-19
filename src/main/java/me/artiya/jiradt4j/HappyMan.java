@@ -47,3 +47,5 @@ public class HappyMan {
         man.addObserver(man);
 
         new Thread(man).start();
+    }
+}
