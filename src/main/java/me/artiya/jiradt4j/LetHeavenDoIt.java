@@ -9,3 +9,4 @@ public class LetHeavenDoIt {
         // เรื่อง 'บางเรื่อง'
         // ปล่อยให้ 'สวรรค์'
         // ทำหน้าที่
+        System.gc();
