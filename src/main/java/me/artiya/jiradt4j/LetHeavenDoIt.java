@@ -10,3 +10,4 @@ public class LetHeavenDoIt {
         // ปล่อยให้ 'สวรรค์'
         // ทำหน้าที่
         System.gc();
+    }
