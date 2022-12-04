@@ -11,3 +11,4 @@ public class LetHeavenDoIt {
         // ทำหน้าที่
         System.gc();
     }
+}
