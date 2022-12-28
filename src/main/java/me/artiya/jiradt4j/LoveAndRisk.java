@@ -13,3 +13,5 @@ import java.util.List;
 public class LoveAndRisk {
 
     public static void main(String[] args) {
+        List<Love> loves = new ArrayList<>();
+        loves.add(() -> {
