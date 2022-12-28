@@ -10,3 +10,6 @@ import java.util.List;
  * ก็จะเริ่มมี 'ความเสี่ยง'
  * Created by robot on 24/07/15.
  */
+public class LoveAndRisk {
+
+    public static void main(String[] args) {
