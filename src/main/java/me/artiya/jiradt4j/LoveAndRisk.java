@@ -29,3 +29,5 @@ public class LoveAndRisk {
     interface Love {
         void dedicated() throws Risk;
     }
+
+    private static class Risk extends Exception {
