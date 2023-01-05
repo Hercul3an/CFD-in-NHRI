@@ -17,3 +17,4 @@ public class LoveAndRisk {
         loves.add(() -> {
             // ทุ่มเท
         });
+        loves.stream().forEach(love -> {
