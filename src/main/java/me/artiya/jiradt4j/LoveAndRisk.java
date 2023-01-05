@@ -21,3 +21,6 @@ public class LoveAndRisk {
             try {
                 love.dedicated();
             } catch (Risk risk) {
+                // TODO Handle the risk.
+            }
+        });
