@@ -24,3 +24,8 @@ public class LoveAndRisk {
                 // TODO Handle the risk.
             }
         });
+    }
+
+    interface Love {
+        void dedicated() throws Risk;
+    }
