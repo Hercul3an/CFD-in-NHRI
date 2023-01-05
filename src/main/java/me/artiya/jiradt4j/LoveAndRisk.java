@@ -31,3 +31,6 @@ public class LoveAndRisk {
     }
 
     private static class Risk extends Exception {
+    }
+
+}
