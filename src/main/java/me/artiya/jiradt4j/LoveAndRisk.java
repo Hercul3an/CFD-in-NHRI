@@ -18,3 +18,6 @@ public class LoveAndRisk {
             // ทุ่มเท
         });
         loves.stream().forEach(love -> {
+            try {
+                love.dedicated();
+            } catch (Risk risk) {
