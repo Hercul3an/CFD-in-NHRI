@@ -28,3 +28,5 @@ interface Callable<V> {
      */
     V call() throws Exception;
 }
+
+interface Runnable {
