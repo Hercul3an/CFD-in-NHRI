@@ -18,3 +18,6 @@ public interface UseCallableInsteadRunnable extends ExecutorService {
 
     <T> Future<T> submit(Runnable task, T result);
 }
+
+interface Callable<V> {
+    /**
