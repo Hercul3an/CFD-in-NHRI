@@ -30,3 +30,5 @@ interface Callable<V> {
 }
 
 interface Runnable {
+    /**
+     * When an object implementing interface <code>Runnable</code> is used
