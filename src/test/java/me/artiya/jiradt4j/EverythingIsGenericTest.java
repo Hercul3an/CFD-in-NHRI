@@ -7,3 +7,5 @@ package me.artiya.jiradt4j;
 public class EverythingIsGenericTest {
     EverythingIsGeneric e = new EverythingIsGeneric() {
         public void bad(Throwable what) {
+
+        }
