@@ -21,3 +21,5 @@ public class EverythingIsGenericTest {
         public void damn(Throwable me) {
 
         }
+
+        public void overrun(Throwable me) {
