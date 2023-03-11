@@ -17,3 +17,7 @@ public class EverythingIsGenericTest {
         public void pitching(Throwable me) {
 
         }
+
+        public void damn(Throwable me) {
+
+        }
