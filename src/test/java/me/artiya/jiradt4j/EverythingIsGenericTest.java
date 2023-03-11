@@ -9,3 +9,5 @@ public class EverythingIsGenericTest {
         public void bad(Throwable what) {
 
         }
+
+        public void left(Throwable me) throws Throwable {
