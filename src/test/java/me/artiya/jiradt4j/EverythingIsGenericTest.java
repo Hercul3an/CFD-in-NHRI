@@ -11,3 +11,5 @@ public class EverythingIsGenericTest {
         }
 
         public void left(Throwable me) throws Throwable {
+
+        }
