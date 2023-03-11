@@ -13,3 +13,5 @@ public class EverythingIsGenericTest {
         public void left(Throwable me) throws Throwable {
 
         }
+
+        public void pitching(Throwable me) {
