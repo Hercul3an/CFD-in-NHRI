@@ -30,3 +30,5 @@ public class EverythingIsGenericTest {
 
         }
     };
+
+    public void test() throws Throwable {
