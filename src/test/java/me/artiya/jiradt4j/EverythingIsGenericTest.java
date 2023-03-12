@@ -27,3 +27,6 @@ public class EverythingIsGenericTest {
         }
 
         public void gossip(Throwable me) {
+
+        }
+    };
