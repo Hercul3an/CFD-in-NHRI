@@ -25,3 +25,5 @@ public class EverythingIsGenericTest {
         public void overrun(Throwable me) {
 
         }
+
+        public void gossip(Throwable me) {
