@@ -35,3 +35,7 @@ public class EverythingIsGenericTest {
         e.bad(new Me());
         e.left(new Me());
         e.pitching(new Me());
+        e.damn(new Me());
+        e.overrun(new Me());
+        e.gossip(new Me());
+    }
