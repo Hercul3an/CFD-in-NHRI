@@ -32,3 +32,6 @@ public class EverythingIsGenericTest {
     };
 
     public void test() throws Throwable {
+        e.bad(new Me());
+        e.left(new Me());
+        e.pitching(new Me());
