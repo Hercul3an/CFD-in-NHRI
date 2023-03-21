@@ -39,3 +39,4 @@ public class EverythingIsGenericTest {
         e.overrun(new Me());
         e.gossip(new Me());
     }
+}
