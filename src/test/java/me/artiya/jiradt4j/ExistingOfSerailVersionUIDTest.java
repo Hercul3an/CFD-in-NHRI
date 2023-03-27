@@ -6,3 +6,4 @@ package me.artiya.jiradt4j;
  */
 public class ExistingOfSerailVersionUIDTest {
     private ExistingOfSerialVersionUID e;
+}
