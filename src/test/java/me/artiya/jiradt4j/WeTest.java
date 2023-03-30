@@ -6,3 +6,5 @@ package me.artiya.jiradt4j;
  */
 public class WeTest {
     Me me;
+
+}
